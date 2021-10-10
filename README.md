@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/p8yhbebu19r1xgyb?svg=true)](https://ci.appveyor.com/project/VoinovNikita/ajs-map)
